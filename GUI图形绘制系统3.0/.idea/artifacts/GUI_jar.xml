@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GUI图形绘制系统:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GUI_jar</output-path>
+    <root id="archive" name="GUI图形绘制系统_jar.jar">
+      <element id="archive" name="GUI图形绘制系统.jar">
+        <element id="module-output" name="GUI图形绘制系统" />
+      </element>
+    </root>
+  </artifact>
+</component>
